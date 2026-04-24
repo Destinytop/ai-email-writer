@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "AI Email Writer - Write Professional Emails in Seconds",
   description: "Write better emails faster with AI. Perfect for sales, support, and business communication. Generate professional, engaging emails instantly.",
   keywords: "AI email writer, email generator, professional email, sales email, customer support email",
+  other: {
+    "google-site-verification": "po2OcWbZO9eZCCbxFRRD08l4uOqG_yGh6zBgUXGXhzQ",
+  },
   openGraph: {
     title: "AI Email Writer - Write Professional Emails in Seconds",
     description: "Write better emails faster with AI. Perfect for sales, support, and business communication.",
